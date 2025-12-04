@@ -3,27 +3,23 @@
 A simple YouTube homepage UI clone built using pure HTML and CSS.
 This project focuses on layout, component structuring, and recreating a real-world interface without JavaScript.
 
-🚀 Live Demo
-
-(Replace this link after enabling GitHub Pages)
-
-➡️ https://your-username.github.io/youtube-clone/
-
 🧠 Features
 
-YouTube-style homepage layout
+  YouTube-style homepage layout
 
-Sidebar navigation UI
+  Sidebar navigation UI
 
-Header with search bar and icons
+  Header with search bar and icons
 
-Video grid section
+  Video grid section
 
-Clean and modular CSS files
+  Clean and modular CSS files
 
-Fully static design using HTML & CSS only
+  Fully static design using HTML & CSS only
 
-🗂️ Project Structure
+## 🗂️ Project Structure
+
+```
 📁 Project Folder
 │
 ├── youtube.html
@@ -36,6 +32,8 @@ Fully static design using HTML & CSS only
 ├── icons/
 ├── thumbnails/
 ├── channels/
+```
+
 
 🛠️ Technologies Used
 
@@ -72,15 +70,6 @@ Structuring assets (icons, thumbnails, channels)
 
 Recreating real website designs for practice
 
-⭐ Future Enhancements
-
-Add responsiveness for mobile/tablet
-
-Add JavaScript for interactive features
-
-Add dark mode theme
-
-Add real data using an API (future MERN project)
 
 📄 License
 
